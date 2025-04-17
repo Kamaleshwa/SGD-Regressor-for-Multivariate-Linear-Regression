@@ -19,7 +19,6 @@ To write a program to predict the price of the house and number of occupants in 
 /*
 Developed by: KAMALESHWAR KV
 RegisterNumber:21222340063
-
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
